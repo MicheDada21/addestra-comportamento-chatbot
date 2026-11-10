@@ -3,7 +3,7 @@ name: addestra-comportamento-chatbot
 description: "Reconstructs the intention a chatbot missed in its last saved conversation and repairs the cause in the prompt, tools or code. Use when a project's chatbot answered badly, made things up or ignored a request."
 ---
 
-# Ripara comportamenti del chatbot
+# Addestra comportamento chatbot
 
 Appena ricevi questo prompt, come prima azione trova dove questo progetto persiste le conversazioni del chatbot, leggi l'ultima e parti da quel transcript. Non chiedere conferma, non iniziare dal codice di riparazione, non inventare il dialogo: se non la recuperi, fermati e chiedi solo dove trovarla.
 
