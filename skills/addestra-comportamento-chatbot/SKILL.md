@@ -1,5 +1,5 @@
 ---
-name: ripara-comportamenti-chatbot
+name: addestra-comportamento-chatbot
 description: "Parte dall'ultima conversazione salvata del chatbot, ricostruisce l'intenzione disattesa e ripara la causa nel prompt, nei tool o nel codice invece di aggiungere patch. Usa quando l'utente segnala che il chatbot del progetto ha risposto male, ha inventato o ha ignorato una richiesta."
 ---
 

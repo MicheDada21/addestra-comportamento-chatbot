@@ -1,10 +1,10 @@
 {
-  "name": "ripara-comportamenti-chatbot",
+  "name": "addestra-comportamento-chatbot",
   "description": "Parte dall'ultima conversazione salvata del chatbot, ricostruisce l'intenzione disattesa e ripara la causa nel prompt, nei tool o nel codice invece di aggiungere patch. Usa quando l'utente segnala che il chatbot del progetto ha risposto male, ha inventato o ha ignorato una richiesta.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/ripara-comportamenti-chatbot",
-  "repository": "https://github.com/MicheDada21/ripara-comportamenti-chatbot",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/addestra-comportamento-chatbot",
+  "repository": "https://github.com/MicheDada21/addestra-comportamento-chatbot",
   "license": "MIT"
 }
